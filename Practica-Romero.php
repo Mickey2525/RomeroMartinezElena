@@ -69,6 +69,7 @@ class GestorContactos
 }
 
 // ---------- Uso de la clase ----------
+// Cambio realizado para demostrar que git funciona con el proyecto
 
 $gestor = new GestorContactos();
 echo $gestor->agregarContacto("Carlos González", "953-210-085", "carlgon@mail.com");
